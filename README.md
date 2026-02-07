@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/manali-github-banner.png" alt="Manali Banner" />
+  <img src="assets/manali-github-banner.jpg" alt="Manali Banner" />
 </p>
 👋 Hi, I’m Manali — Senior Software Engineer (8+ Years)
 
