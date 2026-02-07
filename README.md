@@ -28,10 +28,10 @@ I enjoy working at the intersection of software engineering and applied AI, turn
 
 ## 🛠️ Tech Stack
 
-- Languages: Python, Go, Bash
+- Languages: Python, Go, Ruby
 - AI/ML: LLMs, RAG, LangGraph, fine-tuning, QA & evaluation pipelines
 - Cloud & Infra: Kubernetes, Docker, Helm, CI/CD (Jenkins, GitHub Actions), Linux
-- Dev Practices: Testing, performance optimization, distributed systems, observability
+- Dev Practices: Testing, performance optimization, distributed systems
 
 ## 📌 On GitHub You’ll Find
 
@@ -40,7 +40,7 @@ I enjoy working at the intersection of software engineering and applied AI, turn
 - Backend services and infrastructure-as-code 
 - Clean, well-documented code focused on real-world use cases
 
-## 🌱 Recent Projects I have worked on:
+## 🌱 Recent Personal Projects I have worked on:
 - 🧠 [a digital memory tool to remember information using a whatsapp interface](https://github.com/manalilatkar/digital-memory-tool)
 - 📊 [a tool to generate golden dataset by finetuning a model](https://github.com/manalilatkar/AI-tools/tree/main/golden-dataset-generation)
 - 🔍 [a deep research agent to help you research a specific website](https://github.com/manalilatkar/AI-tools/tree/main/deep-research-agent)
