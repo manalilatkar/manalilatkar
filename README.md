@@ -1,9 +1,10 @@
 <p align="center">
   <img src="assets/manali-github-banner.jpg" alt="Manali Banner" />
 </p>
-👋 Hi, I’m Manali — Senior Software Engineer (8+ Years)
 
-**Python • Golang • Kubernetes • Cloud • AI **
+# 👋 Hi, I’m Manali — Senior Software Engineer (8+ Years)
+
+**Python • Golang • Kubernetes • Cloud • AI**
 
 I’m a Senior Software Engineer with 8+ years of experience building scalable, production-grade systems across Python, AI/ML platforms, Golang, and cloud-native infrastructure. 
 
@@ -40,9 +41,9 @@ I enjoy working at the intersection of software engineering and applied AI, turn
 - Clean, well-documented code focused on real-world use cases
 
 ## 🌱 Recent Projects I have worked on:
-- [a digital memory tool to remember information using a whatsapp interface](https://github.com/manalilatkar/digital-memory-tool)
+- 🧠 [a digital memory tool to remember information using a whatsapp interface](https://github.com/manalilatkar/digital-memory-tool)
 - 📊 [a tool to generate golden dataset by finetuning a model](https://github.com/manalilatkar/AI-tools/tree/main/golden-dataset-generation)
-- 🔍[a deep research agent to help you research a specific website](https://github.com/manalilatkar/AI-tools/tree/main/deep-research-agent)
+- 🔍 [a deep research agent to help you research a specific website](https://github.com/manalilatkar/AI-tools/tree/main/deep-research-agent)
 
 
 ## 📫 Let's Connect
